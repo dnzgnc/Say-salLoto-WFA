@@ -1,0 +1,8 @@
+c:\users\deniz\documents\visual studio 2015\Projects\SayısalLoto-Wform\SayısalLoto-Wform\bin\Debug\SayısalLoto-Wform.exe.config
+c:\users\deniz\documents\visual studio 2015\Projects\SayısalLoto-Wform\SayısalLoto-Wform\obj\Debug\SayısalLoto_Wform.Form1.resources
+c:\users\deniz\documents\visual studio 2015\Projects\SayısalLoto-Wform\SayısalLoto-Wform\obj\Debug\SayısalLoto_Wform.Properties.Resources.resources
+c:\users\deniz\documents\visual studio 2015\Projects\SayısalLoto-Wform\SayısalLoto-Wform\obj\Debug\SayısalLoto-Wform.csproj.GenerateResource.Cache
+c:\users\deniz\documents\visual studio 2015\Projects\SayısalLoto-Wform\SayısalLoto-Wform\bin\Debug\SayısalLoto-Wform.exe
+c:\users\deniz\documents\visual studio 2015\Projects\SayısalLoto-Wform\SayısalLoto-Wform\bin\Debug\SayısalLoto-Wform.pdb
+c:\users\deniz\documents\visual studio 2015\Projects\SayısalLoto-Wform\SayısalLoto-Wform\obj\Debug\SayısalLoto-Wform.exe
+c:\users\deniz\documents\visual studio 2015\Projects\SayısalLoto-Wform\SayısalLoto-Wform\obj\Debug\SayısalLoto-Wform.pdb
